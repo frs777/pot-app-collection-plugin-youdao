@@ -1,8 +1,8 @@
 {
-  "id": "plugin.com.pot-app.youdao_wordlist",
+  "id": "plugin.com.pot-app.youdao",
   "plugin_type": "collection",
-  "icon": "youdao.svg",
-  "display": "有道单词本",
+  "icon": "icon.png",
+  "display": "Youdao - Fiszki",
   "homepage": "https://github.com/pot-app/pot-app-collection-plugin-youdao",
   "needs": [{ "key": "cookie", "display": "Cookie" }]
 }
